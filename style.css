@@ -4,7 +4,7 @@ body, html {
 
 
 #debug {
-    color: #FFFFFF;
+    color: rgb(192, 192, 192);
 	position: absolute;
 	top: 10px;
 	width: 100%;
