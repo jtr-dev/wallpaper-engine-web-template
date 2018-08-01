@@ -7,9 +7,9 @@ There's a few ways you can test. Since this is intended for Wallpaper Engine:
   
   If using GIT;  inside terminal, pick a location to clone to
   
-    ```sh
-    git clone https://github.com/teachtyler/wallpaper-engine-web-template.git web-template
-    ```
+```sh
+ git clone https://github.com/teachtyler/wallpaper-engine-web-template.git web-template
+```
     
   - Inside wallpaper engine, choose a testing monitor, and click the Editor button at the top
   - Click, Create Wallpaper, and for some reason it'll ask for a folder.
